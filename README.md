@@ -2,12 +2,10 @@
 College Lab Equipment Waiting and Allocation System using Circular Linked List
 # College Lab Equipment Waiting and Allocation System
 
-## Project Description
-This project is developed using C++. It manages students waiting for lab equipment using a Circular Linked List.
-
+## Description
+The College Lab Equipment Waiting and Allocation System is a menu-driven C++ program designed to manage lab equipment requests. It uses a Circular Linked List to organize students in a continuous waiting queue. The system provides options to add students, allocate equipment, cancel and display the queue. This project helps reduce manual management and demonstrates the practical implementation of dynamic data structures.
 ## Objective
-To efficiently manage the waiting queue of students and allocate lab equipment in a systematic manner.
-
+To develop a C++-based system for managing students waiting for lab equipment. The system uses a Circular Linked List to maintain the waiting queue efficiently. It allows adding students, allocating equipment and displaying the waiting list. The project demonstrates the practical use of Circular Linked Lists in a real-world application.
 ## Data Structure Used
 Circular Linked List
 
